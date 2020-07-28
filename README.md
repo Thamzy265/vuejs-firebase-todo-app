@@ -2,6 +2,7 @@
 
 Simple vuejs vuetify and firebase app
 
+In firebase.js enter your firebase config details
 
 ## Project setup
 ```
