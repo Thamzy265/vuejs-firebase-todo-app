@@ -2,7 +2,11 @@
 
 Simple vuejs vuetify and firebase app
 
-In firebase.js enter your firebase config details
+Instructions
+
+1. Rename firebaseCustom.js to firebase.js
+
+2. Enter your firebase config details in the firebase.js
 
 ## Project setup
 ```
